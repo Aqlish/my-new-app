@@ -43,7 +43,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Product Card 1 */}
             <div className="bg-white shadow-md rounded-md overflow-hidden">
-              <Image src="/pic-2.jpg" alt="Medicine" className="w-full h-48 object-cover" width={500} height={300} />
+              <Image src="/jf1q/pic-2.jpg" alt="Medicine" className="w-full h-48 object-cover" width={500} height={300} />
               <div className="p-4">
                 <h3 className="font-bold text-lg mb-2">Pain Reliever</h3>
                 <p className="text-gray-700 mb-4">Effective for headaches and body aches.</p>
@@ -52,7 +52,7 @@ export default function Home() {
             </div>
             {/* Product Card 2 */}
             <div className="bg-white shadow-md rounded-md overflow-hidden">
-              <Image src="/pic-1.jpg" alt="Medicine" className="w-full h-48 object-cover" width={500} height={300} />
+              <Image src="/jf1q/pic-1.jpg" alt="Medicine" className="w-full h-48 object-cover" width={500} height={300} />
               <div className="p-4">
                 <h3 className="font-bold text-lg mb-2">Vitamin Supplements</h3>
                 <p className="text-gray-700 mb-4">Boost your immunity and stay healthy.</p>
@@ -61,7 +61,7 @@ export default function Home() {
             </div>
             {/* Product Card 3 */}
             <div className="bg-white shadow-md rounded-md overflow-hidden">
-              <Image src="/pic-3.jpg" alt="Medicine" className="w-full h-48 object-cover" width={500} height={300} />
+              <Image src="/jf1q/pic-3.jpg" alt="Medicine" className="w-full h-48 object-cover" width={500} height={300} />
               <div className="p-4">
                 <h3 className="font-bold text-lg mb-2">Antibiotics</h3>
                 <p className="text-gray-700 mb-4">Treat bacterial infections effectively.</p>
